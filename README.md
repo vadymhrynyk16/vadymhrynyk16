@@ -18,9 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://telegram.me/sliderzxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/sliderzxc/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="sliderzxc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sliderzxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/sliderzxc/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sliderzxc" height="30" width="40" /></a>
-<a href="https://instagram.com/sliderzxc" target="blank"><img align="center" src="https://raw.githubusercontent.com/sliderzxc/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sliderzxc" height="30" width="40" /></a>
+<a href="https://telegram.me/sliderzxc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="sliderzxc" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/sliderzxc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="sliderzxc" height="40" width="40" /></a>
+<a href="https://instagram.com/sliderzxc" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="sliderzxc" height="40" width="40" /></a>
+<a href="https://discord.com/sliderzxc" target="blank"><img align="center" src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" alt="sliderzxc" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">My activities</h3>
